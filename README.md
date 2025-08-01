@@ -16,7 +16,8 @@
     printStudentsDetails(students);
 
 ```
-<img width="1987" height="297" alt="image" src="https://github.com/user-attachments/assets/fea6d9e4-9ff1-48d6-8d7e-c0a9431f295c" />
+<img width="2026" height="234" alt="image" src="https://github.com/user-attachments/assets/76a3f067-aebf-477a-b711-c7c167644ac8" />
+
 
 
 ### Step 2: Update Student Information Using Setters
